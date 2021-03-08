@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 - Sqflite
 
 
-<a href="https://imgflip.com/gif/50ury1"></a>
+https://imgflip.com/gif/50ury1
