@@ -22,4 +22,4 @@ samples, guidance on mobile development, and a full API reference.
 - Sqflite
 
 
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:165.38%;position:relative;"><iframe width="260" height="430" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/50ury1"></iframe></div><p><a href="https://imgflip.com/gif/50ury1">via Imgflip</a></p></div>
+https://imgflip.com/gif/50ury1
