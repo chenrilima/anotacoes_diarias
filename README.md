@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Creating a new Task -
 
-![creating task](https://user-images.githubusercontent.com/58492693/110347847-ca30e980-800f-11eb-8f88-cb879ed5017c.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58492693/110348913-eb460a00-8010-11eb-8b5c-e3e08bc014c1.gif)
 
 
 
