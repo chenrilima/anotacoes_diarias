@@ -1,6 +1,7 @@
 # anotacoes_diarias
 
-A new Flutter application.
+A new Flutter application using sqlite to save informations.
+it's possible to create, update and delete a note.
 
 ## Getting Started
 
