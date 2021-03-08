@@ -23,6 +23,19 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-Creating a new Task
+Creating a new Task -
 
 ![creating task](https://user-images.githubusercontent.com/58492693/110347847-ca30e980-800f-11eb-8f88-cb879ed5017c.gif)
+
+
+
+Updating task -
+
+![updating task](https://user-images.githubusercontent.com/58492693/110348247-34e22500-8010-11eb-8a12-cc12723d3701.gif)
+
+
+
+Deleting task -
+
+![Delete task](https://user-images.githubusercontent.com/58492693/110348347-517e5d00-8010-11eb-8fef-d64d47bfb59a.gif)
+
