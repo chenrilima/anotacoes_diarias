@@ -37,5 +37,5 @@ Updating task -
 
 Deleting task -
 
-![Delete task](https://user-images.githubusercontent.com/58492693/110348347-517e5d00-8010-11eb-8fef-d64d47bfb59a.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/58492693/110348617-986c5280-8010-11eb-8bc6-d12e544fe9e8.gif)
 
