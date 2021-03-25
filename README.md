@@ -1,24 +1,23 @@
 # Aplicativo Notas Diárias
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/github-appdolar/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/chenrilima/anotacoes_diarias/blob/master/LICENSE) 
 
 
 # Sobre o projeto
 
-O Giphy App é uma aplicação mobile construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
+O App é uma aplicação mobile construída durante o Curso de Flutter realizado na **Plataforma Udemy** (https://udemy.com).
 
-A aplicação consiste em uma pesquisa de gifs, utilizando a API do site **GIPHY Developers** (https://developers.giphy.com), onde as imagens são coletadas no app mobile, e são listados na tela, onde é possível compartilhar entre amigos.
+A aplicação consiste em Criar, Editar e excluir notas diárias.
 
 
 ## Layout mobile
 
-Pesquisando -
-
-![pesquisando](https://user-images.githubusercontent.com/58492693/112397817-93322780-8ce1-11eb-8dad-f5f9b4d944e5.gif)
+![criando](https://user-images.githubusercontent.com/58492693/112437198-715a9400-8d25-11eb-91fe-db4556399957.gif)
 
 
-Compartilhando -
+![editando](https://user-images.githubusercontent.com/58492693/112437226-7a4b6580-8d25-11eb-9ca5-bae4dc123227.gif)
 
-![compartilhando](https://user-images.githubusercontent.com/58492693/112397967-ea37fc80-8ce1-11eb-9cd2-7d580ade5099.gif)
+
+![excluindo](https://user-images.githubusercontent.com/58492693/112437240-7fa8b000-8d25-11eb-8c6f-3fcde052c5b9.gif)
 
 
 
